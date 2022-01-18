@@ -14,5 +14,5 @@ if (player1Dice > player2Dice) {
 } else if (player1Dice < player2Dice) {
     h1.textContent = "Player 2 Wins!";
 } else {
-    h1.textContent = "Refresh to try again!";
+    h1.textContent = "Try again!";
 }
